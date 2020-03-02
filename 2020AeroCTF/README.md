@@ -6,7 +6,7 @@
 >He has a secret that we want to get.
 >However, he will not give it up so easily.
 >
->Download (see main .py)
+>Download (see main.py)
 >
 >nc tasks.aeroctf.com 44323
 >
